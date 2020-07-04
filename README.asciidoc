@@ -1,6 +1,12 @@
+
 = Microfrontends Demo
 :toc:
 :icons: font
+
+== Urls
+- https://demo.microfrontends.com/
+- https://martinfowler.com/articles/micro-frontends.html
+- https://github.com/micro-frontends-demo
 
 == Introductory Slides
 https://speakerdeck.com/dschulten/no-framework-microfrontends-statt-frontend-monolithen[German]
